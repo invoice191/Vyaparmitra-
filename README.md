@@ -1,3 +1,79 @@
+# VyaparMitra 💼
+
+## 📂 GitHub Repository
+
+https://github.com/OmkarChaskar06/Vyaparmitra-
+
+---
+
+## 🚀 Project Overview
+
+VyaparMitra is a web-based business management application designed to help users manage and streamline their daily business activities efficiently.
+The application provides a clean UI, fast performance, and AI-powered features to enhance user experience.
+
+---
+
+## ✨ Features
+
+* 📊 User-friendly dashboard
+* ⚡ Fast and responsive UI using Vite
+* 🤖 AI integration using Gemini API
+* 📁 Modular component-based architecture
+* 🔍 Easy navigation and structured layout
+
+---
+
+## 🛠️ Tech Stack
+
+* Frontend: React, TypeScript
+* Build Tool: Vite
+* Styling: CSS / Bootstrap
+* API: Gemini API
+
+---
+
+## ▶️ Run Locally
+
+1. Clone the repository:
+
+```
+git clone https://github.com/OmkarChaskar06/vyaparmitra.git   
+```
+
+2. Install dependencies:
+
+```
+npm install
+```
+
+3. Create a `.env.local` file and add:
+
+```
+GEMINI_API_KEY=your_api_key
+```
+
+4. Start the development server:
+
+```
+npm run dev
+```
+
+---
+
+## ⚙️ Environment Variables
+
+The project requires the following environment variable:
+
+* `GEMINI_API_KEY` – API key for AI features
+
+---
+
+## 👨‍💻 Author
+
+Omkar Chaskar
+
+---
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
